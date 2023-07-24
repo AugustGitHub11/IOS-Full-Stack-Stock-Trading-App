@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "compression-type" : "automatic",
+      "filename" : "image2vector.svg",
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "automatic",
+    "localizable" : true,
+    "preserves-vector-representation" : true
+  }
+}
